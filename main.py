@@ -43,8 +43,8 @@ clock = time.Clock()
 FPS = 60
 
 
-racket1 = Player('racket.png', 30, 200, 4, 50, 150) 
-racket2 = Player('racket.png', 520, 200, 4, 50, 150)
+racket1 = Player('rocket.png', 30, 200, 4, 50, 150) 
+racket2 = Player('rocket.png', 520, 200, 4, 50, 150)
 ball = GameSprite('tennis.png', 200, 200, 4, 50, 50)
 
 
